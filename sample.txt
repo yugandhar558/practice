@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 this my practice test file
 this my second line merge conflict
+>>>>>>> e72734503ae3d36606aaeddaf47b69c88a201a42
