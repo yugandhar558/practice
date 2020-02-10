@@ -1,5 +1,5 @@
 this my first line
-this my second is line for merge
+this my second line
 this is my third line
 this is my fourth line
 this is my fifth line
