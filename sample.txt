@@ -1,4 +1,4 @@
-this my practice test file
+this my first line
 this my second line merge conflict
 this is my third line
 this is my fourth line
