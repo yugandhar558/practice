@@ -1,7 +1,7 @@
 this my first line update remote
 this my second line update in local
 this my second line update
-this is my third line
+this is my third line in remote
 this is my fourth line
 this is my fifth line
 this is my sixth line
